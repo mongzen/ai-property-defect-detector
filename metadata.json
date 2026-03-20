@@ -1,0 +1,5 @@
+{
+  "name": "AI Property Defect Detector",
+  "description": "Upload property images to automatically detect defects and generate inspection reports.",
+  "requestFramePermissions": []
+}
